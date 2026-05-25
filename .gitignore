@@ -1,0 +1,10 @@
+cache/
+venv/
+
+.env
+
+data/*
+!data/
+!data/bixi_stations.csv
+
+station_coords.py
