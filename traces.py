@@ -3,7 +3,7 @@ import pandas as pd
 import osmnx as ox
 import networkx as nx
 import folium
-# from folium.plugins import HeatMap
+
 import pickle
 
 STATS_CSV = "data/statistiques_trajets.csv"

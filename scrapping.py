@@ -1,7 +1,6 @@
 import os
 from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright, Playwright
-import csv
 import pandas as pd
 
 historique = {}
